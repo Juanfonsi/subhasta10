@@ -1,0 +1,12 @@
+== TopBid
+
+Aquest projecte será format per Juan Flores i Pol González.
+
+link:https://gitlab.com/subhasta/subhasta10/-/blob/main/public/docs/manualServidor.adoc?ref_type=heads[Enllaç a la memòria del projecte.]
+
+link:https://youtu.be/phHgOVQvDM8[Enllaç al video de presentació.]
+
+IP Servidor develop : 192.168.50.176 (Juan Francisco Flores Fernandez)
+
+IP Servidor producció: 192.168.50.178 (Pol Gonzalez Miranda)
+
